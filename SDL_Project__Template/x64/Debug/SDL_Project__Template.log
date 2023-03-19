@@ -1,0 +1,13 @@
+﻿  Core.cpp
+D:\First_Year_Projects\SDL_Project__Template\SDL_Project__Template\Core.h(2,10): fatal  error C1083: Cannot open include file: 'SDL_render.h': No such file or directory
+  Fish.cpp
+D:\First_Year_Projects\SDL_Project__Template\SDL_Project__Template\Fish.h(2,10): fatal  error C1083: Cannot open include file: 'SDL_render.h': No such file or directory
+  Obstacle.cpp
+D:\First_Year_Projects\SDL_Project__Template\SDL_Project__Template\Textures.h(2,10): fatal  error C1083: Cannot open include file: 'SDL_image.h': No such file or directory
+  Sounds.cpp
+D:\First_Year_Projects\SDL_Project__Template\SDL_Project__Template\Sounds.h(2,10): fatal  error C1083: Cannot open include file: 'SDL_mixer.h': No such file or directory
+  Source.cpp
+D:\First_Year_Projects\SDL_Project__Template\SDL_Project__Template\Source.cpp(1,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Textures.cpp
+D:\First_Year_Projects\SDL_Project__Template\SDL_Project__Template\Textures.h(2,10): fatal  error C1083: Cannot open include file: 'SDL_image.h': No such file or directory
+  Generating Code...

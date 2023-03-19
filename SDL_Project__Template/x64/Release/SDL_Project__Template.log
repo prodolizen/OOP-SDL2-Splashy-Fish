@@ -1,0 +1,14 @@
+﻿  Core.cpp
+C:\Users\olive\OneDrive\Documents\code\FlappyBird\SDL_Project__Template\SDL_Project__Template\Core.cpp(51,19): warning C4244: 'argument': conversion from 'double' to 'Uint32', possible loss of data
+  Fish.cpp
+C:\Users\olive\OneDrive\Documents\code\FlappyBird\SDL_Project__Template\SDL_Project__Template\Fish.cpp(9,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\olive\OneDrive\Documents\code\FlappyBird\SDL_Project__Template\SDL_Project__Template\Fish.cpp(10,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Level.cpp
+  Sounds.cpp
+  Source.cpp
+  Textures.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 29 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SDL_Project__Template.vcxproj -> C:\Users\olive\OneDrive\Documents\code\FlappyBird\SDL_Project__Template\x64\Release\SDL_Project__Template.exe
